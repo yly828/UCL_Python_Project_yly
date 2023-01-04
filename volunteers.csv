@@ -1,0 +1,17 @@
+username,password,firstname,lastname,phone,camp,avail_startDate,avail_endDate,status,active
+test,test,test,test,test,test,01/11/2022,09/12/2022,volunteer,True
+test1,test1,test1,test1,1234,test1,01/12/2022,02/12/2022,volunteer,False
+test2,test2,Ally,test2,test2,test2,30/11/2022,02/12/2022,volunteer,True
+test3,test3,test3,test3,test3,test3,02/12/2022,05/12/2022,volunteer,True
+test4,test4,test4,test4,test4,test4,09/12/2022,15/12/2022,volunteer,True
+test5,test5,,test5,test5,test5,09/12/2022,12/12/2022,volunteer,True
+test6,test6,test6,test6,test6,test6,09/12/2022,13/12/2022,volunteer,True
+test7,test7,test7,test7,test7,test7,09/12/2022,01/01/2023,volunteer,True
+test8,test8,test8,test8,test8,test8,09/12/2022,12/12/2022,volunteer,True
+test9,test9,test9,test9,test9,test9,10/12/2022,12/12/2022,volunteer,True
+test10,test10,test10,test10,test10,test10,10/12/2022,15/12/2022,volunteer,True
+aa,aa,aa,aa,aa,aa,10/12/2022,01/01/2023,volunteer,True
+bb,bb,bb,bb,bb,bb,10/12/2022,01/01/2023,volunteer,True
+cc,cc,cc,cc,cc,cc,01/01/2023,01/02/2023,volunteer,True
+dd,dd,dd,dd,dd,dd,10/12/2022,01/01/2023,volunteer,True
+ee,ee,ee,ee,ee,ee,10/12/2022,12/12/2023,volunteer,True

@@ -1,0 +1,6 @@
+kind,description,area,startDate,endDate,active
+tsunami,water,usa,09/12/2022,01/01/2023,True
+drought,no water,africa,09/12/2022,,True
+flood,water everywhere,florida,09/12/2022,12/12/2022,True
+solar flare,burning,earth,09/12/2022,,True
+earthquake,houses destroyed,peru,09/12/2022,,True
